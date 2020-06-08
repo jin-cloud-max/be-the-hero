@@ -1,1 +1,3 @@
-Projeto be The Hero da semana omnistack
+Project Omnistack Be The Hero with
+* `NodeJS`
+* `ReactJS`
