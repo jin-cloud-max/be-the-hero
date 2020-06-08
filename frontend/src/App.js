@@ -1,22 +1,11 @@
 import React from 'react';
-import './App.css';
+import Logon from './pages/Logon'
+import './global.css'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-         Hello World
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Logon />
     </div>
   );
 }
